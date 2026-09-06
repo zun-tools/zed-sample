@@ -1,0 +1,1 @@
+[{ "label": "run sample", "command": "python3", "args": ["main.py"] }]
